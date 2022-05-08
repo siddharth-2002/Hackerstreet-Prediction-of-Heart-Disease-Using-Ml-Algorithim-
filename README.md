@@ -4,7 +4,9 @@
 ⛏⛏⚒TOOL DEVELOPMENT
 
 
-The full code for this article can be found [here](https://colab.research.google.com/drive/1l3Pjn7bKTpBlpwkYnIyf0TXd1ww7Xdhi#scrollTo=7DcSgEZEeOB-). It is implemented in Python and different classification algorithms are used. Below is a brief description of the general approach that I employed:
+The full code for this article can be found [here](https://colab.research.google.com/drive/1l3Pjn7bKTpBlpwkYnIyf0TXd1ww7Xdhi#scrollTo=7DcSgEZEeOB-). It is implemented in Python and different classification algorithms are used. Below is a brief description of the general approach that we employed:
+                                                            ![Screenshot 2022-05-08 211244](https://user-images.githubusercontent.com/87866766/167304961-e8d6ee98-ba6f-48d8-856d-c87265be0e2d.png)
+
 
 🎫Data cleaning and pre-processing: 
 
