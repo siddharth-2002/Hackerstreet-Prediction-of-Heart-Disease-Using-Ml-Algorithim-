@@ -18,3 +18,7 @@ Feature Selection: Since having irrelevant features in a data set can decrease t
 🧪Model development and comparison: 
 
 we  used three classification models, i.e., Logistic Regression, K-Nearest Neighbors and Decision Trees , After which we compared the performance of the models using their accuracy and F1 scores.  then we settled with the best performing model.
+
+
+
+##For downloading the dataset visit the [Kaggle](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset) Website.
